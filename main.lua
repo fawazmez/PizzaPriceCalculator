@@ -2,6 +2,8 @@
 --
 -- main.lua
 --
+-- Created by : Fawaz Mezher
+-- Created on : Feb 2018
+--
+-- This program finds the subtotal tax and total of the pizza
 -----------------------------------------------------------------------------------------
-
--- Your code here
